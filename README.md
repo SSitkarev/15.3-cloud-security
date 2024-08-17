@@ -10,6 +10,6 @@
 
 [Bucket](https://github.com/SSitkarev/15.3-cloud-security/blob/main/bucket.tf)
 
-![Задание1](https://github.com/SSitkarev/5.3-cloud-security/blob/main/img/1.jpg)
+![Задание1](https://github.com/SSitkarev/15.3-cloud-security/blob/main/img/1.jpg)
 
-![Задание1](https://github.com/SSitkarev/5.3-cloud-security/blob/main/img/2.jpg)
+![Задание1](https://github.com/SSitkarev/15.3-cloud-security/blob/main/img/2.jpg)
